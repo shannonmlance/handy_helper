@@ -1,0 +1,22 @@
+body {
+    padding: 25px;
+    background-image: linear-gradient(cornflowerblue,aliceblue,cornflowerblue);
+    display: block;
+}
+.container-block {
+    color: #dc3445;
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 50px;
+}
+.title {
+    text-shadow: 3px 3px 3px black;
+}
+.welcome {
+    color: black;
+    text-shadow: 3px 3px 3px #dc3445;
+}
+.container {
+    margin-top: 35px;
+}

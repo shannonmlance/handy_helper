@@ -1,0 +1,38 @@
+body {
+    padding: 25px;
+    background-image: linear-gradient(cornflowerblue,aliceblue,cornflowerblue);
+    display: block;
+}
+.container-block {
+    color: #dc3445;
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 50px;
+}
+
+.welcome {
+    color: black;
+    text-shadow: 3px 3px 3px #dc3445;
+    display: inline;
+}
+.container {
+    margin-top: 35px;
+}
+.logout {
+    display: inline;
+    margin-left: 50px;
+}
+.add-nav {
+    margin-left: 500px;
+    font-size: 24px;
+}
+.container-block a {
+    margin-right: 7px;
+}
+.nav-link {
+    display: inline;
+}
+.nav-back {
+    margin-left: 650px;
+}
